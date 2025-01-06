@@ -26,6 +26,8 @@ The following hardware components are used in this project:
 4. [Raspberry Pi Pico](https://www.aliexpress.us/item/3256806123280687.html)
 5. [Button Switches](https://www.aliexpress.us/item/3256806503141060.html)
 
+![Hardware](./resources/hardware.png)
+
 ---
 
 ## Toolset
